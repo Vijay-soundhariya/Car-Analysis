@@ -76,5 +76,5 @@ Advanced Features
 o	Purpose: Serve as slicers for quick filtering of data based on selected car brands (e.g., BMW, Toyota). These buttons update all visuals dynamically to show brand-specific insights.
 o	Design: Custom brand logos are used for intuitive filtering and better aesthetics
 
-![my visual](https://github.com/Vijay-soundhariya/Car-Analysis/blob/main/ezgif.com-speed.gif)
+![my visual](https://github.com/Vijay-soundhariya/Car-Analysis/blob/main/car%20analysis/car%20annalysis%20snap.gif)
  
